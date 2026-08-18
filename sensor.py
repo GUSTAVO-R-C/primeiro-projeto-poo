@@ -1,2 +1,2 @@
 temperatura = 27
-print(f"Sensor ativo: {temperatura} C")
+print(f"Leitura recebida: {temperatura} C")
